@@ -6,7 +6,7 @@
     "configurations": [
         
         {
-            "type": "pwa-chrome",
+            "type":"pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
             "url": "http://localhost:2125",
