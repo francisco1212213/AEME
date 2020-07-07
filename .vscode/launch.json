@@ -10,7 +10,8 @@
             "request": "launch",
             "name": "Open index.html",
             "url": "http://localhost:2125",
-            "file": "D:\\9 Cuatrimestre\\AEME\\AEME\\index.html"
+           // "file": "D:\\9 Cuatrimestre\\AEME\\AEME\\index.html"
+            "file": "${workspaceFolder}/index.html"
         }
     ]
 }
