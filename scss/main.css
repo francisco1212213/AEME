@@ -12,7 +12,18 @@ html {
 }
 body {
 	margin: 0;
+	background: #f1f1f1;
+	font-family: 'Roboto',sans-serif;
+	-webkit-transition: .3s ease all;
+	transition: .3s ease all;
+
+	
 }
+body.dark {
+	background: #111111;
+}
+
+
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
 	display: block;
 }
@@ -7765,8 +7776,6 @@ body #login-reg .btn-link-1 {
 	width: 100%;
 	margin: 5px 0px;
 }
-Body.dark{
-	background: #000;
-}
+
 
 }
