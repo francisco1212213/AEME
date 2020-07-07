@@ -5913,7 +5913,7 @@ body #top-header {
 	padding: 5px 0px;
 }
 body #top-header ul.contact_links li {
-	float: left;
+	
 	display: inline-block;
 	margin-right: 20px;
 }
@@ -5931,7 +5931,7 @@ body #top-header ul.social_links {
 	float: right;
 }
 body #top-header ul.social_links li {
-	float: left;
+	
 	display: inline-block;
 	margin-right: 5px;
 }
@@ -6470,7 +6470,7 @@ body #testimonial .testimonial_user .user-image {
 	height: 60px;
 	border-radius: 100%;
 	display: inline-block;
-	float: left;
+	
 	margin-right: 15px;
 }
 body #testimonial .testimonial_user .user-info {
@@ -6882,9 +6882,7 @@ body #team-member .our-team.main-info-on-hover .qodef-icon-shortcode {
 body #team-member .our-team.main-info-on-hover .qodef-icon-shortcode i {
 	color: #fff;
 }
-body #team-member .our-team.main-info-below-image {
-	-webkit-transform: translateZ(0);
-}
+
 body #team-member .our-team.main-info-below-image .our-team-inner {
 	overflow: visible;
 }
@@ -7184,8 +7182,7 @@ body #contact-page .submit-button {
 	border: none;
 	margin-top: 10px;
 }
-body #features-page {
-/* subsection1 ends /--------------------------------------------------------- */ }
+
 body #features-page .subsection1 {
 	background-color: #fff;
 	background-image: url(../img/feature_banner1.jpg);
@@ -7228,10 +7225,7 @@ body #features-page .subsection1 .flip .icon-color.card .back {
 	color: #fff;
 }
 body #features-page .subsection1 .flip {
-	-webkit-perspective: 800;
-	-ms-perspective: 800;
-	-moz-perspective: 800;
-	-o-perspective: 800;
+	
 	width: 100%;
 	min-height: 200px;
 	height: 200px;
@@ -7771,4 +7765,8 @@ body #login-reg .btn-link-1 {
 	width: 100%;
 	margin: 5px 0px;
 }
+Body.dark{
+	background: #000;
+}
+
 }
